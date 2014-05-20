@@ -1,0 +1,40 @@
+1	baidu	1992-05-01 1993-05-01
+2	baidu	1992-05-01
+3	baidu	1988-05-01
+4	baidu	abc1998-12-24 abc1999-01-12
+5	baidu	abc1999-09-01
+6	baidu	1922-05-22
+7	baidu	1922-05
+8	baidu	05-04
+9	baidu	http://www.baidu.com
+10	baidu	吉林
+10	baidu	大学
+11	baidu	a 吉林
+12	baidu	吉林
+12	baidu	a
+13	baidu	&11111;&amp;abc
+14	官方网站	吉林、a
+15	官网	吉林、a
+16	描述	吉林 大学
+17	baidu	@@@吉林 大学
+18	baidu	计算机
+18	baidu	科学与技术
+19	baidu	亚历山大
+19	baidu	John Smith
+19	baidu	大仲马
+20	baidu	亚历山大
+20	baidu	John-Smith
+20	baidu	大仲马
+21	baidu	亚历山大
+21	baidu	小说-都市言情
+21	baidu	大仲马
+22	作者	亚历山大
+22	作者	小说-都市言情
+22	作者	大仲马
+23	作者	亚历山大
+23	作者	
+23	作者	大仲马
+24	author	亚历山大 (小说-都市言情) 大仲马
+25	author	亚历山大 (小说-都市言情) 大仲马
+26	Test1	小说-都市言情
+27	Test2	亚历山大123456大仲马
