@@ -38,7 +38,7 @@
 
 <h2>升级日志</h2>
 
-Feature        BugFix        Warning        Change
+Feature&nbsp;&nbsp;BugFix&nbsp;&nbsp;Warning&nbsp;&nbsp;Change
 
 2014-05-05
 
