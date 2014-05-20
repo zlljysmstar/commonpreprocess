@@ -42,7 +42,7 @@ Feature&nbsp;&nbsp;BugFix&nbsp;&nbsp;Warning&nbsp;&nbsp;Change
 
 2014-05-05
 
-[1] 采用Boost Library重构了部分代码，更改了配置文件读取格式。
+[1] 采用Boost Library重构了部分代码，更改了配置文件的读取格式。
 
 2013-08-06
 
